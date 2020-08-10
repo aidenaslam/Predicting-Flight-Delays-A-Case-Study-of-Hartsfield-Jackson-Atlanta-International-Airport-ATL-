@@ -1,4 +1,4 @@
-# Predicting Flight-Delays: A Case Study of Hartsfield Jackson Atlanta International Airport ATL (Master's Thesis)
+# Predicting Flight-Delays: A Case Study of Hartsfield Jackson Atlanta International Airport ATL (Master's Thesis) - **Still in Progress**
 The US aviation industry in the last decade has experienced an ever-increasing demand of passengers. This is requiring airports to evaluate their current strategies and be able to adapt to changing industrial environments to not only provide a better service towards airlines and passengers, but to maximise profit through efficient operation. One way to achieve this is by efficiently organising and handling airport capacity. The aim of this study was therefore, to implement deep learning to accurately predict the arrival delay of flights at ATL in the US to assist with airport capacity planning for the ever-increasing passenger demand.
 
 ## Exploratory Data Analysis
